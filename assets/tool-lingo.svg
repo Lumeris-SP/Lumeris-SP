@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="155" viewBox="0 0 280 155" role="img" aria-label="LINGO: Modelado y optimizacion">
+<rect x="1" y="1" width="278" height="153" rx="16" fill="#201B33" stroke="#5F4A7C"/>
+<g transform="translate(71 11)" fill="#C6A4F5"><path d="M38 50L59 28L78 39L99 15" fill="none" stroke="#C6A4F5" stroke-width="5"/><circle cx="38" cy="50" r="5"/><circle cx="59" cy="28" r="5"/><circle cx="78" cy="39" r="5"/><circle cx="99" cy="15" r="5"/></g>
+<text x="140" y="103" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#F0EAF8">LINGO</text>
+<text x="140" y="130" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#CBBADD">Modelado y optimizacion</text>
+</svg>
